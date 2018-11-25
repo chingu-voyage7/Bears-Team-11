@@ -31,7 +31,8 @@ Add-project-description-here | Voyage-7 | https://chingu.io/
 
 ### Pull Requests
 1. Go to Github, look for your pushed branch, and issue a Pull Request (PR)
-2. Select a team member to review the code
+2. Add `closes #ISSUENUMBER` on the comment (sometimes there is a separate issue created for the PR, add the Issue Number for the story you are working on)
+3. Select a team member to review the code
 
 ### Merging PRs (reviewer)
 1. Look for the PR
